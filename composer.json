@@ -1,0 +1,17 @@
+{
+    "name": "rafal/hacker-rank",
+    "authors": [
+        {
+            "name": "80Quattro",
+            "email": "rr.jania@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "3MonthsPreparationKit/PlusMinus.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
