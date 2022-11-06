@@ -10,7 +10,8 @@
         "files": [
             "3MonthsPreparationKit/PlusMinus.php",
             "3MonthsPreparationKit/MiniMaxSum.php",
-            "3MonthsPreparationKit/TimeConversion.php"
+            "3MonthsPreparationKit/TimeConversion.php",
+            "3MonthsPreparationKit/BreakingTheRecords.php"
         ]
     },
     "require-dev": {
