@@ -9,7 +9,8 @@
     "autoload": {
         "files": [
             "3MonthsPreparationKit/PlusMinus.php",
-            "3MonthsPreparationKit/MiniMaxSum.php"
+            "3MonthsPreparationKit/MiniMaxSum.php",
+            "3MonthsPreparationKit/TimeConversion.php"
         ]
     },
     "require-dev": {
