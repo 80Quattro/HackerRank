@@ -11,7 +11,8 @@
             "3MonthsPreparationKit/PlusMinus.php",
             "3MonthsPreparationKit/MiniMaxSum.php",
             "3MonthsPreparationKit/TimeConversion.php",
-            "3MonthsPreparationKit/BreakingTheRecords.php"
+            "3MonthsPreparationKit/BreakingTheRecords.php",
+            "3MonthsPreparationKit/CamelCase4.php"
         ]
     },
     "require-dev": {
