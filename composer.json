@@ -13,7 +13,8 @@
             "3MonthsPreparationKit/TimeConversion.php",
             "3MonthsPreparationKit/BreakingTheRecords.php",
             "3MonthsPreparationKit/CamelCase4.php",
-            "3MonthsPreparationKit/DivisibleSumPairs.php"
+            "3MonthsPreparationKit/DivisibleSumPairs.php",
+            "3MonthsPreparationKit/SparseArrays.php"
         ]
     },
     "require-dev": {
