@@ -14,7 +14,8 @@
             "3MonthsPreparationKit/BreakingTheRecords.php",
             "3MonthsPreparationKit/CamelCase4.php",
             "3MonthsPreparationKit/DivisibleSumPairs.php",
-            "3MonthsPreparationKit/SparseArrays.php"
+            "3MonthsPreparationKit/SparseArrays.php",
+            "3MonthsPreparationKit/GradingStudents.php"
         ]
     },
     "require-dev": {
