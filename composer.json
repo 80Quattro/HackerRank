@@ -15,7 +15,8 @@
             "3MonthsPreparationKit/DivisibleSumPairs.php",
             "3MonthsPreparationKit/GradingStudents.php",
             "3MonthsPreparationKit/LonelyInteger.php",
-            "3MonthsPreparationKit/SparseArrays.php"
+            "3MonthsPreparationKit/SparseArrays.php",
+            "3MonthsPreparationKit/FlippingBits.php"
         ]
     },
     "require-dev": {
