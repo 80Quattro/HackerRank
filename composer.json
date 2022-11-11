@@ -12,10 +12,10 @@
             "3MonthsPreparationKit/MiniMaxSum.php",
             "3MonthsPreparationKit/TimeConversion.php",
             "3MonthsPreparationKit/BreakingTheRecords.php",
-            "3MonthsPreparationKit/CamelCase4.php",
             "3MonthsPreparationKit/DivisibleSumPairs.php",
-            "3MonthsPreparationKit/SparseArrays.php",
-            "3MonthsPreparationKit/GradingStudents.php"
+            "3MonthsPreparationKit/GradingStudents.php",
+            "3MonthsPreparationKit/LonelyInteger.php",
+            "3MonthsPreparationKit/SparseArrays.php"
         ]
     },
     "require-dev": {
