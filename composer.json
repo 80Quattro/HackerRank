@@ -16,7 +16,8 @@
             "3MonthsPreparationKit/GradingStudents.php",
             "3MonthsPreparationKit/LonelyInteger.php",
             "3MonthsPreparationKit/SparseArrays.php",
-            "3MonthsPreparationKit/FlippingBits.php"
+            "3MonthsPreparationKit/FlippingBits.php",
+            "3MonthsPreparationKit/DiagonalDifference.php"
         ]
     },
     "require-dev": {
