@@ -17,7 +17,8 @@
             "3MonthsPreparationKit/LonelyInteger.php",
             "3MonthsPreparationKit/SparseArrays.php",
             "3MonthsPreparationKit/FlippingBits.php",
-            "3MonthsPreparationKit/DiagonalDifference.php"
+            "3MonthsPreparationKit/DiagonalDifference.php",
+            "3MonthsPreparationKit/CountingSort1.php"
         ]
     },
     "require-dev": {
