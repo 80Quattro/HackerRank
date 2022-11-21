@@ -19,7 +19,8 @@
             "3MonthsPreparationKit/FlippingBits.php",
             "3MonthsPreparationKit/DiagonalDifference.php",
             "3MonthsPreparationKit/CountingSort1.php",
-            "3MonthsPreparationKit/CountingValleys.php"
+            "3MonthsPreparationKit/CountingValleys.php",
+            "3MonthsPreparationKit/Pangrams.php"
         ]
     },
     "require-dev": {
