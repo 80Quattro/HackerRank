@@ -21,7 +21,8 @@
             "3MonthsPreparationKit/CountingSort1.php",
             "3MonthsPreparationKit/CountingValleys.php",
             "3MonthsPreparationKit/Pangrams.php",
-            "3MonthsPreparationKit/MarsExploration.php"
+            "3MonthsPreparationKit/MarsExploration.php",
+            "3MonthsPreparationKit/PermutingTwoArrays.php"
         ]
     },
     "require-dev": {
