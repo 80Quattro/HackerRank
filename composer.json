@@ -23,7 +23,8 @@
             "3MonthsPreparationKit/Pangrams.php",
             "3MonthsPreparationKit/MarsExploration.php",
             "3MonthsPreparationKit/PermutingTwoArrays.php",
-            "3MonthsPreparationKit/SubarrayDivision2.php"
+            "3MonthsPreparationKit/SubarrayDivision2.php",
+            "3MonthsPreparationKit/SalesByMatch.php"
         ]
     },
     "require-dev": {
